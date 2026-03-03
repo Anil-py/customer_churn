@@ -26,16 +26,10 @@ By integrating predictive analytics into customer management operations, this to
 
 ## 📂 Repository Structure
 
-**app.py:** The main Python script containing the Streamlit application and UI logic.
-
-**requirements.txt:** The list of Python dependencies required to run the app.
-
-**churn_model_xgb.pkl:** The serialized, pre-trained XGBoost machine learning model.
-
-**churn_scaler.pkl:** The fitted scaler used to normalize input data before prediction.
-
-
-
+* **app.py:** The main Python script containing the Streamlit application and UI logic.
+* **requirements.txt:** The list of Python dependencies required to run the app.
+* **churn_model_xgb.pkl:** The serialized, pre-trained XGBoost machine learning model.
+* **churn_scaler.pkl:** The fitted scaler used to normalize input data before prediction.
 
 
 
