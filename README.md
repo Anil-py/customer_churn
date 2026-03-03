@@ -1,6 +1,6 @@
 # 🏦 Bank Customer Churn Predictor
 
-[![Streamlit App](https://customerchurn-ah7b2rlbqqrwpujqqh4mna.streamlit.app/])
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://customerchurn-ah7b2rlbqqrwpujqqh4mna.streamlit.app/)
 
 ## Project Overview
 Customer retention is a critical metric for any financial institution. The cost of acquiring a new banking customer is significantly higher than retaining an existing one. This project provides a machine learning solution to identify customers at high risk of exiting the bank, allowing customer success and retention teams to proactively intervene.
@@ -47,3 +47,4 @@ churn_model_xgb.pkl: The serialized, pre-trained XGBoost machine learning model.
 
 
 churn_scaler.pkl: The fitted scaler used to normalize input data before prediction.
+
