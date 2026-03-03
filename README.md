@@ -20,32 +20,15 @@ By integrating predictive analytics into customer management operations, this to
 
 ## 💻 Tech Stack
 * **Frontend:** Streamlit
-* **Data Manipulation:** Pandas, NumPy
-* **Machine Learning:** Scikit-Learn, [XGBoost (if applicable)]
+* **Data Manipulation:** Pandas,NumPy
+* **Machine Learning:** Scikit-Learn,XGBoost
 * **Deployment:** Streamlit Community Cloud
-
-## 🚀 How to Run Locally
-
-If you wish to run this project on your local machine, follow these steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/](https://github.com/Anil-py/customer_churn.git)
-2. Navigate to the project directory:
-cd customer_churn.git
-3. Install the required dependencies:
-pip install -r requirements.txt
-4.Run the Streamlit app:
-streamlit run app.py
 
 📂 Repository Structure
 app.py: The main Python script containing the Streamlit application and UI logic.
-
 requirements.txt: The list of Python dependencies required to run the app.
-
 churn_model_xgb.pkl: The serialized, pre-trained XGBoost machine learning model.
-
-
 churn_scaler.pkl: The fitted scaler used to normalize input data before prediction.
+
 
 
