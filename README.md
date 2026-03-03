@@ -5,7 +5,7 @@
 ## Project Overview
 Customer retention is a critical metric for any financial institution. The cost of acquiring a new banking customer is significantly higher than retaining an existing one. This project provides a machine learning solution to identify customers at high risk of exiting the bank, allowing customer success and retention teams to proactively intervene.
 
-This repository contains a deployed Streamlit web application that utilizes a pre-trained [XGBoost / Random Forest / etc.] model to predict customer churn based on key demographic and financial indicators.
+This repository contains a deployed Streamlit web application that utilizes a pre-trained XGBoost model to predict customer churn based on key demographic and financial indicators.
 
 ## 🎯 Business Value
 By integrating predictive analytics into customer management operations, this tool enables banks to:
@@ -47,4 +47,5 @@ churn_model_xgb.pkl: The serialized, pre-trained XGBoost machine learning model.
 
 
 churn_scaler.pkl: The fitted scaler used to normalize input data before prediction.
+
 
