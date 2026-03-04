@@ -1,5 +1,6 @@
 # 🏦 Bank Customer Churn Predictor
 
+## ### [🔗 View the Live Interactive App Here](https://customerchurn-ah7b2rlbqqrwpujqqh4mna.streamlit.app/)
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://customerchurn-ah7b2rlbqqrwpujqqh4mna.streamlit.app/)
 
 ## Project Overview
@@ -30,6 +31,7 @@ By integrating predictive analytics into customer management operations, this to
 * **requirements.txt:** The list of Python dependencies required to run the app.
 * **churn_model_xgb.pkl:** The serialized, pre-trained XGBoost machine learning model.
 * **churn_scaler.pkl:** The fitted scaler used to normalize input data before prediction.
+
 
 
 
